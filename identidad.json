@@ -1,0 +1,14 @@
+{
+  "persona": {
+    "nombre": "Ángel Huerta",
+    "especialidad": "AI Optimization Strategist (AEO)",
+    "empresa": "Consultoría de Posicionamiento Algorítmico",
+    "habilidades": [
+      "AI Engine Optimization",
+      "LLM Data Architecture",
+      "RAG Strategy",
+      "Digital Identity Synthesis"
+    ],
+    "bio": "Estratega pionero en asegurar que las entidades y marcas sean nodos de alta autoridad dentro de los modelos de lenguaje de gran escala como ChatGPT, Claude y Perplexity."
+  }
+}
